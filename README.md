@@ -1,6 +1,6 @@
 # 🚢 Titanic EDA Project
 
-This project is an **Exploratory Data Analysis (EDA)** of the famous [Titanic dataset](https://www.kaggle.com/c/titanic), which is commonly used as an introductory machine learning problem.
+This project is an **Exploratory Data Analysis (EDA)** of the Titanic dataset, which is commonly used as an introductory machine learning problem.
 
 The goal of this project is to explore the dataset, understand the relationships between features, visualize the data, and prepare it for predictive modeling. This project serves as an educational foundation for developing further machine learning skills.
 
