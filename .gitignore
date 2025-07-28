@@ -1,0 +1,93 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.log
+
+.run/
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Net Beans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# logback
+logs/
+
+# JRebel
+*rebel.xml
+*rebel-remote.xml
+
+
+#Maven
+#project.properties
+
+*.bak
+*.jdbc
+tools/test/test-tool/src/main/resources/META-INF/config.properties
+tools/devops/database/sql/v1000/v1000_000_crms2_drop_tables_ddl.sql
+tools/devops/database/sql/v1000/v1000_002_crms2_create_tables_ddl.sql
+
+# UI
+# compiled output
+**/node_modules
+**/out-tsc
+**/tmp
+**/test/reports
+**/temp/node
+**/app-version.json
+
+# IDEs and editors
+.c9/
+*.launch
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+yarn-error.log
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+# System Files
+Thumbs.db
+*.orig
+
+**/package-lock.json
+
+# ignore generated db files/scripts
+/tools/devops/database/sql/*/common
+
+### Maven
+**/.mvn/
+**/.git-versioned-pom.xml
