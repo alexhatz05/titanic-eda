@@ -31,11 +31,13 @@ The goal of this project is to explore the dataset, understand the relationships
 
 Here are some examples of the visualizations generated in this project:
 
-![Survival by Class](images/survival_by_class.png)  
-*Survival rate per passenger class*
+<img width="568" height="453" alt="image" src="https://github.com/user-attachments/assets/149b9ab1-163e-4072-bac4-72e500b4e28b" />
 
-![Age Distribution](images/age_distribution.png)  
-*Distribution of passenger ages*
+<img width="568" height="453" alt="image" src="https://github.com/user-attachments/assets/0d82ba39-0475-48af-947f-e99cd7290ca4" />
+
+<img width="585" height="497" alt="Correlation Heatmap" src="https://github.com/user-attachments/assets/5a8746ae-163b-4efe-81d1-4174e996f7e7" />
+
+<img width="565" height="484" alt="image" src="https://github.com/user-attachments/assets/657d6c90-d26a-4444-aa6c-8143547c6634" />
 
 ---
 
